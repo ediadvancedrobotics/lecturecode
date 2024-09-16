@@ -1,0 +1,9 @@
+example-robot-data
+virtualenv
+jupyterlab
+notebook==6.0.3
+matplotlib
+meshcat
+quadprog
+scipy
+tensorflow
